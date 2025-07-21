@@ -55,12 +55,14 @@ Longer-term customers are **less likely** to churn.
 
 ---
 
-## How to Use
+## Author
 
-```bash
-# Clone the repo
-1.git clone https://github.com/ikhimwinemmanuel/churn-analysis-project.git
+**Emmanuel Ikhimwin**  
+Master of Artificial Intelligence | Western Sydney University  
+[GitHub Profile](https://github.com/ikhimwinemmanuel)
 
-2.Open Jupyternotebook
+---
 
-3.Run all cells to see results
+## Note
+
+This project is part of my learning journey to showcase my skills and build an AI-focused portfolio.
